@@ -187,12 +187,12 @@ def main():
     #
 
       
-      order.add(Candy("Candy Corn", 7.25, 1.5, .25))
-      order.add(Candy("Gummy Bears", 7.25, .25, .35))
-      order.add(Cookie("Chocolate Chip", 7.25, 6, 3.99))
-      order.add(IceCream("Pistachio", 7.25, 2, .79))
-      order.add(Sundae("Vanilla", 7.25, 3, .69, "Hot Fudge", 1.29))
-      order.add(Cookie("Oatmeal Raisin", 7.25, 2, 3.45))
+      # order.add(Candy("Candy Corn", 7.25, 1.5, .25))
+      # order.add(Candy("Gummy Bears", 7.25, .25, .35))
+      # order.add(Cookie("Chocolate Chip", 7.25, 6, 3.99))
+      # order.add(IceCream("Pistachio", 7.25, 2, .79))
+      # order.add(Sundae("Vanilla", 7.25, 3, .69, "Hot Fudge", 1.29))
+      # order.add(Cookie("Oatmeal Raisin", 7.25, 2, 3.45))
       
       
 
